@@ -1,0 +1,168 @@
+REVISION 0 33 agastopia Timestamp A A 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 0 33 agastopia Timestamp B B 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 0 33 agastopia Timestamp C C 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 1 33 bibble Timestamp A A 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 1 33 bibble Timestamp C C 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 2 33 cabotage Timestamp A A 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 2 33 cabotage Timestamp B B 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 2 33 cabotage Timestamp C C 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 3 33 doodle_sack Timestamp B B 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 4 33 erinaceous Timestamp A A 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 4 33 erinaceous Timestamp B B 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+
+REVISION 4 33 erinaceous Timestamp C C 
+CATEGORY American_mathematician
+IMAGE
+MAIN Boston_University MIT Harvard_University Cornell_University
+TALK
+USER
+USER_TALK
+OTHER De:Steven_Strogatz Es:Steven_Strogatz
+EXTERNAL http://www.edge.org/3rd_culture/bios/strogatz.html
+TEMPLATE Cite_book Cite_book Cite_journal
+COMMENT ISBN formatting &/or general fixes using [[WP:AWB|AWB]]
+MINOR 1
+TEXTDATA 229
+

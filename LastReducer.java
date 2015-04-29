@@ -9,16 +9,14 @@ import java.util.TreeMap;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class ThirdReducer extends Reducer<Text, Text, Text, Text> {
+public class FourthReducer extends Reducer<Text, Text, Text, Text> {
 	public Text pageKey = new Text();
 	public Text pageValue = new Text();
-	public List<String> listValue = new ArrayList<String>();
-	public Integer intValue;
-    
 	public void reduce(Text key, Iterable<Text> values, Context context)
 			throws IOException, InterruptedException {
         String largest, delim = " ";
         int largestSize = 0;
+        
         while(values.hasNext())
         {
             String clique = values.next();
@@ -29,7 +27,8 @@ public class ThirdReducer extends Reducer<Text, Text, Text, Text> {
                 largest = clique; 
             }   
         }
-        context.write(largestSize, largest);
+        //output
+        //context.write(largestSize, largest);
         //or...
         String split[] = largest.split(delim);
         for(int i = 0; i < largest.length; i++)
